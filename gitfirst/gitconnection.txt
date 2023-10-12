@@ -1,0 +1,16 @@
+https://github.com/xlyusegithub/styletransfer.git
+add----commit---push
+
+选中---右键--tortoisegit--add（欲添加）----commit（到本地仓库）---push
+
+
+
+
+
+
+
+
+
+
+
+
